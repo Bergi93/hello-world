@@ -1,3 +1,3 @@
 # hello-world
 
-That is a very funny Day.
+That is a very funny day.
